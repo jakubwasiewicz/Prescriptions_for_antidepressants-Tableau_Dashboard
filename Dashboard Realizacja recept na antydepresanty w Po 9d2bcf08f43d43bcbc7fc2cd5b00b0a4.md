@@ -30,4 +30,4 @@ The datasets used to build the dashboard were prepared and made available by the
 
 ### Screenshots
 
-![Screenshot 2023-08-22 at 19.04.11.png](Dashboard%20Realizacja%20recept%20na%20antydepresanty%20w%20Po%209d2bcf08f43d43bcbc7fc2cd5b00b0a4/Screenshot_2023-08-22_at_19.04.11.png)
+![dashboard.png](dashboard.png)
